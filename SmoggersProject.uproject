@@ -27,6 +27,14 @@
 		{
 			"Name": "VirtualHeightfieldMesh",
 			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "AvidDNxMedia",
+			"Enabled": true
 		}
 	]
 }
